@@ -177,8 +177,8 @@ class See_Homework():
 
                     from twilio.rest import Client
 
-                    account_sid= "ACf285e3bcd6b0a836086d3bb94997b738"
-                    account_token= "1c4dea75e0341a289e4f7dba65384851"
+                    account_sid= ""
+                    account_token= ""
 
                     client= Client(account_sid,account_token)
 
